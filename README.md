@@ -1,6 +1,6 @@
 # 🃏 JS_BlackJack - El Clásico Juego de Cartas
 
-¡Que empiecen las apuestas! Este proyecto es una recreación interactiva y digital del clásico juego de cartas BlackJack (el 21). El objetivo principal de este desarrollo fue construir una lógica de juego sólida utilizando capacidades nativas del lenguaje de programación para gestionar eventos, decisiones de los jugadores y reglas automatizadas de la banca.
+¡Que empiecen las apuestas! Este proyecto es una recreación interactiva y digital del clásico juego de cartas BlackJack. El objetivo principal de este desarrollo fue construir una lógica de juego sólida utilizando capacidades nativas del lenguaje de programación para gestionar eventos, decisiones de los jugadores y reglas automatizadas de la banca.
 
 Es un excelente ejemplo de cómo transformar reglas de un juego físico en funciones lógicas que controlan el estado de una partida en tiempo real, ofreciendo entretenimiento inmediato de forma directa en el navegador.
 
