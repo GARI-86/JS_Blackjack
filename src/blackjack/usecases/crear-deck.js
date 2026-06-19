@@ -1,3 +1,4 @@
+import _ from 'underscore';
 /**
  * Esta función crea un nuevo deck
  * @param {Array<String>} tiposDeCarta Ejemplo: ['C','D','H','S']
