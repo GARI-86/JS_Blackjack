@@ -1,8 +1,8 @@
 html,
 body {
   margin: 0px;
-  background-color: #2f4f30 !important; /* 👈 Esto le gana a Bootstrap sí o sí */
-  color: white !important; /* 👈 Asegura que el texto sea blanco */
+  background-color: #2f4f30 !important; /*
+  color: white !important; /* 
 }
 
 .titulo {
