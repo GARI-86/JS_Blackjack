@@ -2,7 +2,7 @@
 import "bootstrap/dist/css/bootstrap.min.css";
 
 // 2. lógica
-import "./src/blackjack";
+import "./blackjack";
 
 // 3. estilos
 import "./style.css";
