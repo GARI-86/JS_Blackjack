@@ -1,6 +1,6 @@
 // Importaciones
 import "bootstrap/dist/css/bootstrap.min.css";
-import "./style.css";
+import ".style.css";
 
 // Funciones
 import { crearDeck, pedirCarta, valorCarta } from './blackjack.js';
