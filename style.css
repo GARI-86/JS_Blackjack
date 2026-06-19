@@ -1,0 +1,26 @@
+html,
+body {
+  margin: 0px;
+  background-color: #2f4f30 !important; /* 👈 Esto le gana a Bootstrap sí o sí */
+  color: white !important; /* 👈 Asegura que el texto sea blanco */
+}
+
+.titulo {
+  text-align: center;
+  background-color: black !important;
+  color: white;
+  padding: 20px;
+  font-size: 25px;
+}
+
+.carta {
+  position: relative;
+  width: 150px;
+  left: 100px;
+  margin-left: -75px;
+}
+
+#computadora-cartas,
+#jugador-cartas {
+  height: 240px;
+}
