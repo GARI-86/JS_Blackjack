@@ -1,8 +1,3 @@
-import _ from 'underscore';
-
-// export const miNombre = 'Fernando';
-
-
 /**
  * Esta función crea un nuevo deck
  * @param {Array<String>} tiposDeCarta Ejemplo: ['C','D','H','S']
